@@ -1,0 +1,7 @@
+{
+    "appName": "HerbloreCalculator",
+    "description": "An Alt1 app to calculate Herblore profit based on bank contents.",
+    "appUrl": "index.html",
+    "iconUrl": "assets/icon.png",
+    "permissions": "pixel"
+}
