@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: #eee;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.5em;
+    color: #ff9800; /* RuneScape Gold color */
+}
+
+#scan-bank-btn {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    margin-bottom: 15px;
+}
+
+#scan-bank-btn:hover {
+    background-color: #45a049;
+}
+
+#results {
+    margin-top: 15px;
+    text-align: left;
+}
+
+#results ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#results li {
+    background-color: #333;
+    border: 1px solid #444;
+    padding: 8px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+}
+
+.profit {
+    color: #4CAF50; /* Green */
+    font-weight: bold;
+}
+
+.loss {
+    color: #f44336; /* Red */
+    font-weight: bold;
+}
